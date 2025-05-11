@@ -1,16 +1,79 @@
-<h1 align="center">Hey there! I'm Can Silay</h1>
-<h3 align="center">A passionate game developer from the Netherlands</h3>
+<br clear="both">
 
-- 🔭 I’m currently working on **Mage heaven**
+<h1 align="center">Welcome to Canpaii's library of knowledge</h1>
 
-- 👨‍💻 All of my projects are available at [Threemension.com](Threemension.com)
+###
 
-- 📫You can reach me on **Cansilay70@gmail.com**
+<h3 align="left">I'm Canpaii, a creative developer passionate about crafting interactive experiences. I have nearly 2 years of experience and specialize in Unity C# Programming.</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/can-silay-42434b2b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/can-silay-42434b2b8/" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<br clear="both">
+
+<h2 align="center">Skills</h2>
+
+###
+
+<h3 align="center">• Unity • C# • Game design • VR Development • Trello •</h3>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
+  <img width="450" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="50" alt="unity logo"  />
+</div>
+
+###
+
+<h2 align="center">Current project</h2>
+
+###
+
+<h3 align="left">Mage Heaven - A VR boss fight game where you try to defeat a monster in a cave as a mage</h3>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://media.tenor.com/FB6gN5IuKREAAAAi/silly-magnemite.gif"  />
+</div>
+
+###
+
+<h2 align="center">Finished projects</h2>
+
+###
+
+<h3 align="left">Brawl heaven - A Unique platform fighter with a creative drawing mechanic to outsmart your opponent</h3>
+
+###
+
+<h3 align="left">Drum heaven - A beat saber inspired VR Rhythm game where you play the drums and try to get the highest score possible</h3>
+
+###
+
+<h3 align="left">Oil Defenders - A traditional Tower defense game where you gather oil to further defend your base</h3>
+
+###
+
+<div align="center">
+  <img height="120" src="https://media.tenor.com/nC8W7eyDFmUAAAAi/mini-impact-miniimpact.gif"  />
+</div>
+
+###
+
+<h3 align="center">Contact</h3>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/can-silay-42434b2b8/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
