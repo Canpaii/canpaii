@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Welcome to Canpaii's library of knowledge</h1>
+<h1 align="center">Welcome to my library of knowledge</h1>
 
 ###
 
