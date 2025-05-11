@@ -48,15 +48,15 @@
 
 ###
 
-<h3 align="left">Brawl heaven - A Unique platform fighter with a creative drawing mechanic to outsmart your opponent</h3>
+<h3 align="left"> <a href="https://github.com/CarrotXX2/Brawl-Heaven" target="_blank"> Brawl heaven a> - A Unique platform fighter with a creative drawing mechanic to outsmart your opponent</h3>
 
 ###
 
-<h3 align="left">Drum heaven - A beat saber inspired VR Rhythm game where you play the drums and try to get the highest score possible</h3>
+<h3 align="left"> <a href="https://github.com/Canpaii/VR-Drum-Rhythm-Game" target="_blank">Drum heaven a>- A beat saber inspired VR Rhythm game where you play the drums and try to get the highest score possible</h3>
 
 ###
 
-<h3 align="left">Oil Defenders - A traditional Tower defense game where you gather oil to further defend your base</h3>
+<h3 align="left"> <a href="https://github.com/Canpaii/Tower-defence-prototype" target="_blank">Oil Defenders a>- A traditional Tower defense game where you gather oil to further defend your base</h3>
 
 ###
 
