@@ -32,7 +32,7 @@
 
 ###
 
-<h3 align="left">Mage Heaven - A VR boss fight game where you try to defeat a monster in a cave as a mage</h3>
+<h3 align="left"><a href="https://github.com/CarrotXX2/Mage-heaven" target="_blank">Mage Heaven</a> - A VR boss fight game where you try to defeat a monster in a cave as a mage</h3>
 
 ###
 
